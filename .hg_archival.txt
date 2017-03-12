@@ -1,0 +1,6 @@
+repo: 3a655f786eaba9e3b3c9e52d6a274f75834345fb
+node: 127e93fe7f1cdd67a873d9a0f703b70cf2ff8349
+branch: fisherconn_1.0
+latesttag: null
+latesttagdistance: 6
+changessincelatesttag: 6

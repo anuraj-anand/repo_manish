@@ -1,0 +1,13 @@
+
+
+{% block content %}
+
+<h1> {{ title }}</h1>
+<hr/>
+
+<form method="POST" action="/home" enctype="multipart/form-data">{% csrf_token %}
+    <input type="text" name="username" />
+    <input type="password" name="password" />
+    <input type="submit" class="btn"  />
+</form>
+{% endblock content %}
