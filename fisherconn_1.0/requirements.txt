@@ -9,7 +9,7 @@ django-crispy-forms==1.6.1
 django-filter==1.0.1
 django-haystack==2.5.1
 django-social-auth==0.7.28
-djangorestframework==3.5.4
+djangorestframework==3.9.1
 Djapian==2.3
 elasticsearch==5.1.0
 elasticsearch-django==0.5.2
