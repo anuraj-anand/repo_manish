@@ -1,7 +1,7 @@
 coreapi==2.2.4
 coreschema==0.0.4
 dj-database-url==0.4.1
-Django==1.10.4
+Django==1.11.28
 django-ajax-search==1.5.1
 django-allauth==0.29.0
 django-bootstrap-form==3.2.1
